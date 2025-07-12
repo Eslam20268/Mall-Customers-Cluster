@@ -24,8 +24,3 @@ Customer segmentation helps businesses understand their customers better by grou
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
-## How to Use
-
-1. Clone or download the repository.
-2. Install the required libraries:
