@@ -1,18 +1,31 @@
-Mall Customer Clustering:_
-This project focuses on segmenting mall customers into distinct groups based on their purchasing behavior and demographic data using clustering algorithms.
+# Mall Customer Clustering
 
-What I Have Done
-Collected and included a dataset containing customer information such as age, income, and spending score.
+This project focuses on segmenting mall customers into distinct groups based on their purchasing behavior and demographic data using clustering algorithms, mainly **K-Means**.
 
-Developed a Jupyter Notebook that:
+## What I Have Done
 
-Loads and explores the dataset.
+- Collected and included a dataset containing customer information such as **age, annual income, and spending score**.
+- Developed a Jupyter Notebook that:
+  - Loads and explores the dataset.
+  - Preprocesses the data by handling missing values and scaling features to ensure fair clustering.
+  - Applies clustering algorithms such as **K-Means** to identify meaningful customer segments.
+  - Visualizes the clusters and interprets the results to provide actionable business insights.
+- Published the project publicly on GitHub for others to explore and build upon.
 
-Preprocesses the data by handling missing values and scaling features.
+## Why Customer Segmentation?
 
-Applies clustering algorithms such as K-Means to identify customer segments.
+Customer segmentation helps businesses understand their customers better by grouping similar customers together. This enables targeted marketing, personalized services, and improved customer satisfaction, ultimately increasing revenue.
 
-Visualizes the clusters and interprets the results.
+## Tools and Libraries Used
 
-Published the project publicly on GitHub for others to explore and build upon.
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
+## How to Use
+
+1. Clone or download the repository.
+2. Install the required libraries:
